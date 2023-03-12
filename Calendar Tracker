@@ -57,20 +57,4 @@ visualizationSheet.getRange(6,2).setValue(totalHoursOverTimeRange);  //prints 't
  
 }
 
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
 
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-AppScript-Email-Newsletter-or-Spam-Emailer/Calendar Tracker at main · mxke42/AppScript-Email-Newsletter-or-Spam-Emailer
